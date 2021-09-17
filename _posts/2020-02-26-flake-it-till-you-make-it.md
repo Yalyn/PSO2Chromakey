@@ -2,7 +2,7 @@
 layout: post
 title: My Adventures of PSO2Global.
 subtitle: Community Managers vs Me
-cover-img: /assets/img/vcrossarms.jpg
+cover-img: /assets/img/seifinger.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
