@@ -10,7 +10,15 @@ tags: [books, test]
 
 Welcome to the biggest blog post about an idiot that'll talk about how one person can create the most cursed and the most stupid images possible.
 
-Short bio about me: I've played the Phantasy Star series since 2003, the first game I've ever palyed is PSOGC. And that's it. I am not going to waste your time about my personal history with the series.
+## Short bio about me: 
+I've played the Phantasy Star series since 2003, the first game I've ever played is PSOGC. And that's it. I am not going to waste your time about my personal history with the series.
+
+
+
+## What you need to know about before reading this:
+PSO2 is just like any other MMO except that the devs are fully aware of it's fashion side of things that they would make it easy for user-created content in terms of camera and lighting features. The image you see below is personal room that every player starts out with with the exeception of the greenscreen room decoration that I had to purchase from another player in the Japanese server.
+
+[Imgur](https://i.imgur.com/Q3vfp9R.jpg)
 
 
 
