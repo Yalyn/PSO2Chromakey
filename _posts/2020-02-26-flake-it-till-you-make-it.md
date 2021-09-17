@@ -20,7 +20,6 @@ A soulful notion of success rests on the actualization of our innate image. Succ
 
 <div class="center">
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/gitlab">@gitlab</a> for joining <a href="https://twitter.com/RailsGirlsCluj">@RailsGirlsCluj</a>! <a href="https://t.co/NOoiqDWKVY">pic.twitter.com/NOoiqDWKVY</a></p>&mdash; RailsGirlsCluj (@RailsGirlsCluj) <a href="https://twitter.com/RailsGirlsCluj/status/784847271645028352">October 8, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/play_pso2?ref_src=twsrc%5Etfw">@play_pso2</a> <a href="https://twitter.com/hashtag/PSO2?src=hash&amp;ref_src=twsrc%5Etfw">#PSO2</a> <a href="https://twitter.com/hashtag/PhantasyStarOnline2?src=hash&amp;ref_src=twsrc%5Etfw">#PhantasyStarOnline2</a> I didn&#39;t think I could recreate what you guys have done but after searching for that font (maybe) and good old trial n&#39; error, I&#39;ve done it. Finally putting that greenscreen room decoration to good use. <a href="https://t.co/UFh9xbxXLD">pic.twitter.com/UFh9xbxXLD</a></p>&mdash; Yabo Yalyn Vinkindo (@yalynvinkindo) <a href="https://twitter.com/yalynvinkindo/status/1226085933671424000?ref_src=twsrc%5Etfw">February 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
 </div>
