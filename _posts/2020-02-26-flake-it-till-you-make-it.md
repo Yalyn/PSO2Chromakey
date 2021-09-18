@@ -3,9 +3,9 @@ layout: post
 title: My Adventures of PSO2Global.
 subtitle: Community Managers vs Me
 cover-img: /assets/img/seifinger.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+thumbnail-img: /assets/img/seifinger.jpg
+share-img: /assets/img/seifinger.jpg
+tags: [chromakey, pso2]
 ---
 
 Welcome to the biggest blog post about an idiot that'll talk about how one person can create the most cursed and the most stupid images possible.
@@ -13,13 +13,16 @@ Welcome to the biggest blog post about an idiot that'll talk about how one perso
 ## Short bio about me: 
 I've played the Phantasy Star series since 2003, the first game I've ever played is PSOGC. And that's it. I am not going to waste your time about my personal history with the series. Here are my PSO1 art parodies: 
 
-![Alt text](https://i.imgur.com/CLnNcrQ.jpg)
+![Alt text](https://i.imgur.com/I5WQ3v3.jpg)
 
 ## What you need to know about before reading this:
 PSO2 is just like any other MMO except that the devs are fully aware of it's fashion side of things that they would make it easy for user-created content in terms of camera and lighting features. The image you see below is personal room that every player starts out with with the exeception of the greenscreen room decoration that I had to purchase from another player in the Japanese server.
 
 ![Alt text](https://i.imgur.com/7IO1lqO.jpg)
 
+## Let's set the dates:
+- I've played PSO2 Japanese server years before PSO2 Global was even announced.
+- 
 
 
 {::options parse_block_html="false" /}
